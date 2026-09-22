@@ -37,17 +37,19 @@ Shelter Operations
         ↓
 Resident Assistance
 ```
-Operational Roles
+## Operational Roles
 
 The platform is organized around different operational roles so that each participant can access the functions relevant to their responsibility.
 
-Role	Primary Responsibility
-Area Admin	Area-level administration and operational oversight
-Commander	Incident command and response coordination
-Unit Leader	Unit-level operational coordination
-Responder	Field-level response activities
-Shelter Manager	Shelter-level management and coordination
-Shelter Responder	Shelter-level operational assistance
+| Role | Primary Responsibility |
+|---|---|
+| **Area Admin** | Area-level administration and operational oversight |
+| **Commander** | Incident command and response coordination |
+| **Unit Leader** | Unit-level operational coordination |
+| **Responder** | Field-level response activities |
+| **Shelter Manager** | Shelter-level management and coordination |
+| **Shelter Responder** | Shelter-level operational assistance |
+
 Role-Based Operational Model
                          RESCUEMESH
                              │
