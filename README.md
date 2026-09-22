@@ -246,21 +246,6 @@ RescueMesh follows a coordinated disaster-response workflow that connects incide
 
 RescueMesh is developed and maintained by **Team Didex**.
 
----
-
-## Project Status
-
-🚧 **RescueMesh is under active development.**
-
-The repository is being maintained as the project evolves toward the Smart India Hackathon 2026 submission and demonstration.
-
----
-
-## License
-
-This project is developed by **Team Didex** for the **Smart India Hackathon 2026**.
-
----
 
 # RescueMesh
 
