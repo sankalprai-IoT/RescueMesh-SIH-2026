@@ -18,7 +18,8 @@ It provides role-based operational interfaces for different participants involve
 
 ## Core Response Workflow
 
-```text
+**Incident Reporting → AI Triage & Analysis → Command Coordination → Unit / Field Response → Shelter Operations → Resident Assistance**
+
 Incident Reporting
        ↓
 AI Triage & Analysis
@@ -30,3 +31,16 @@ Unit / Field Response
 Shelter Operations
        ↓
 Resident Assistance
+
+## Operational Roles
+
+| Role | Primary Responsibility |
+|------|------------------------|
+| **Area Admin** | Area-level administration and operational oversight |
+| **Commander** | Incident command and response coordination |
+| **Unit Leader** | Unit-level operational coordination |
+| **Responder** | Field-level response activities |
+| **Shelter Manager** | Shelter-level management and coordination |
+| **Shelter Responder** | Shelter-level operational assistance |
+
+---
