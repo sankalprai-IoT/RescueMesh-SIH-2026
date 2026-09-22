@@ -1,6 +1,12 @@
-# RescueMesh-SIH-2026
+# Rescue<span style="color:#e53935">Mesh</span>-SIH-2026
 
 > A connected disaster-response coordination platform designed to bring incident intelligence, command coordination, field response, and shelter operations into one unified system.
+
+**Team:** Didex  
+**Project:** RescueMesh  
+**Event:** Smart India Hackathon 2026
+
+---
 
 ## Overview
 
@@ -12,35 +18,21 @@ The system follows a coordinated workflow:
 
 **Incident → Intelligence → Command → Response → Shelter**
 
-It provides role-based operational interfaces for different participants involved in disaster response.
+RescueMesh provides role-based operational interfaces so that different participants can access the functions relevant to their responsibilities.
 
 ---
 
-## Core Response Workflow
+# Core Response Workflow
 
-**Incident Reporting → AI Triage & Analysis → Command Coordination → Unit / Field Response → Shelter Operations → Resident Assistance**
-
+```text
 Incident Reporting
-       ↓
+        ↓
 AI Triage & Analysis
-       ↓
+        ↓
 Command Coordination
-       ↓
+        ↓
 Unit / Field Response
-       ↓
+        ↓
 Shelter Operations
-       ↓
+        ↓
 Resident Assistance
-
-## Operational Roles
-
-| Role | Primary Responsibility |
-|------|------------------------|
-| **Area Admin** | Area-level administration and operational oversight |
-| **Commander** | Incident command and response coordination |
-| **Unit Leader** | Unit-level operational coordination |
-| **Responder** | Field-level response activities |
-| **Shelter Manager** | Shelter-level management and coordination |
-| **Shelter Responder** | Shelter-level operational assistance |
-
----
