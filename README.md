@@ -148,12 +148,12 @@ Each role has its own dashboard demonstration showing the operational interface 
 
 | Role | Demo |
 |---|---|
-| **Area Admin** | View Demo |
-| **Commander** | View Demo |
-| **Unit Leader** | View Demo |
-| **Responder** | View Demo |
-| **Shelter Manager** | View Demo |
-| **Shelter Responder** | View Demo |
+| **Area Admin** | [View Demo](./demo/area-admin/) |
+| **Commander** | [View Demo](./demo/commander/) |
+| **Unit Leader** | [View Demo](./demo/unit-leader/) |
+| **Responder** | [View Demo](./demo/responder/) |
+| **Shelter Manager** | [View Demo](./demo/shelter-manager/) |
+| **Shelter Responder** | [View Demo](./demo/shelter-responder/) |
 
 ## Architecture
 
