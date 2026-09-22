@@ -119,23 +119,41 @@ Shelter Responder
 
 Each role has its own dashboard demonstration showing the operational interface available to that role.
 
-Demo Video
+## Demo
 
-🎥 RescueMesh Full Demo
+The repository contains dashboard demonstrations for the major operational roles supported by RescueMesh.
 
-▶️ Watch the RescueMesh Demo
+### Available Role Demos
 
-Replace YOUTUBE_LINK_HERE with the final YouTube demo link.
+- **Area Admin** — Area-level administration and operational oversight
+- **Commander** — Incident command and response coordination
+- **Unit Leader** — Unit-level operational coordination
+- **Responder** — Field-level response activities
+- **Shelter Manager** — Shelter-level management and coordination
+- **Shelter Responder** — Shelter-level operational assistance
 
-Role-wise Dashboard Demonstrations
-Role	Demo
-Area Admin	View Demo
-Commander	View Demo
-Unit Leader	View Demo
-Responder	View Demo
-Shelter Manager	View Demo
-Shelter Responder	View Demo
-Architecture
+Each role has its own dashboard demonstration showing the operational interface available to that role.
+
+---
+
+## Demo Video
+
+🎥 **RescueMesh Full Demo**
+
+[▶️ Watch the RescueMesh Demo](YOUTUBE_LINK_HERE)
+
+---
+
+## Role-wise Dashboard Demonstrations
+
+| Role | Demo |
+|---|---|
+| **Area Admin** | View Demo |
+| **Commander** | View Demo |
+| **Unit Leader** | View Demo |
+| **Responder** | View Demo |
+| **Shelter Manager** | View Demo |
+| **Shelter Responder** | View Demo |
 
 The architecture/ directory contains the architecture and system-design materials for RescueMesh.
 
