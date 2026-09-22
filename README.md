@@ -50,21 +50,26 @@ The platform is organized around different operational roles so that each partic
 | **Shelter Manager** | Shelter-level management and coordination |
 | **Shelter Responder** | Shelter-level operational assistance |
 
-Role-Based Operational Model
-                         RESCUEMESH
-                             │
-             ┌───────────────┴───────────────┐
-             │                               │
-       COMMAND LAYER                    SHELTER LAYER
-             │                               │
-        Area Admin                      Shelter Manager
-             │                               │
-         Commander                    Shelter Responder
-             │
-        Unit Leader
-             │
-         Responder
+## Role-Based Operational Model
 
+RescueMesh follows a role-based operational structure in which each participant works within a defined level of responsibility.
+
+```text
+                         RESCUEMESH
+                             |
+              +--------------+--------------+
+              |                             |
+        COMMAND LAYER                 SHELTER LAYER
+              |                             |
+         Area Admin                  Shelter Manager
+              |                             |
+          Commander                 Shelter Responder
+              |
+         Unit Leader
+              |
+          Responder
+
+```
 Each role operates within its defined responsibility while remaining part of the overall disaster-response workflow.
 
 Key Capabilities
