@@ -155,19 +155,23 @@ Each role has its own dashboard demonstration showing the operational interface 
 | **Shelter Manager** | View Demo |
 | **Shelter Responder** | View Demo |
 
-The architecture/ directory contains the architecture and system-design materials for RescueMesh.
+## Architecture
 
-It describes how the major components of the platform are organized and how information moves through the disaster-response workflow.
+The `architecture/` directory contains the architecture and system-design materials for RescueMesh.
 
-architecture/
-Documentation
+It describes the major components of the platform and how information moves through the disaster-response workflow.
 
-The docs/ directory contains project documentation, technical references, workflows, and supporting material.
+---
 
-docs/
-Presentation
+## Documentation
 
-The presentation/ directory contains the official RescueMesh — Smart India Hackathon 2026 presentation material.
+The `docs/` directory contains project documentation, technical references, workflows, and supporting materials.
+
+---
+
+## Presentation
+
+The `presentation/` directory contains the official **RescueMesh — Smart India Hackathon 2026** presentation material.
 
 presentation/
 Repository Structure
