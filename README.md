@@ -198,7 +198,11 @@ RescueMesh-SIH-2026/
 │
 └── README.md
 ```
-Project Workflow
+## Project Workflow
+
+RescueMesh follows a coordinated disaster-response workflow that connects incident reporting, intelligence, command, field response, and shelter operations.
+
+```text
                          INCIDENT
                             │
                             ▼
@@ -230,6 +234,9 @@ Project Workflow
                  │  RESIDENT          │
                  │  ASSISTANCE        │
                  └────────────────────┘
+
+```
+
 Team
 Team Didex
 
