@@ -69,33 +69,42 @@ RescueMesh follows a role-based operational structure in which each participant 
               |
           Responder
 
-```
 Each role operates within its defined responsibility while remaining part of the overall disaster-response workflow.
+```
 
-Key Capabilities
-Incident Intelligence
-Incident reporting
-AI-assisted triage and analysis
-Emergency severity assessment
-Incident prioritization
-Operational information flow
-Command Coordination
-Incident command
-Response coordination
-Operational oversight
-Unit coordination
-Role-based dashboards
-Field Response
-Unit-level coordination
-Responder operations
-Field-level response activities
-Operational task handling
-Shelter Operations
-Shelter management
-Shelter coordination
-Shelter responder operations
-Resident assistance
-Shelter-level operational support
+## Key Capabilities
+
+### Incident Intelligence
+
+- Incident reporting
+- AI-assisted triage and analysis
+- Emergency severity assessment
+- Incident prioritization
+- Operational information flow
+
+### Command Coordination
+
+- Incident command
+- Response coordination
+- Operational oversight
+- Unit coordination
+- Role-based dashboards
+
+### Field Response
+
+- Unit-level coordination
+- Responder operations
+- Field-level response activities
+- Operational task handling
+
+### Shelter Operations
+
+- Shelter management
+- Shelter coordination
+- Shelter responder operations
+- Resident assistance
+- Shelter-level operational support
+
 Demo
 
 The repository contains dashboard demonstrations for the major operational roles supported by RescueMesh.
