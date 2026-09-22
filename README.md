@@ -237,26 +237,33 @@ RescueMesh follows a coordinated disaster-response workflow that connects incide
 
 ```
 
-Team
-Team Didex
+## Team
 
-Project: RescueMesh
-Event: Smart India Hackathon 2026
+### Team Didex
 
-RescueMesh is developed and maintained by Team Didex.
+**Project:** RescueMesh  
+**Event:** Smart India Hackathon 2026
 
-Project Status
+RescueMesh is developed and maintained by **Team Didex**.
 
-🚧 RescueMesh is under active development.
+---
+
+## Project Status
+
+🚧 **RescueMesh is under active development.**
 
 The repository is being maintained as the project evolves toward the Smart India Hackathon 2026 submission and demonstration.
 
-License
+---
 
-This project is developed by Team Didex for the Smart India Hackathon 2026.
+## License
 
-RescueMesh
+This project is developed by **Team Didex** for the **Smart India Hackathon 2026**.
 
-Incident → Intelligence → Command → Response → Shelter
+---
 
-Connecting disaster-response operations through one coordinated platform.
+# RescueMesh
+
+**Incident → Intelligence → Command → Response → Shelter**
+
+> Connecting disaster-response operations through one coordinated platform.
