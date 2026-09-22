@@ -173,20 +173,21 @@ The `docs/` directory contains project documentation, technical references, work
 
 The `presentation/` directory contains the official **RescueMesh — Smart India Hackathon 2026** presentation material.
 
-presentation/
-Repository Structure
+## Repository Structure
+
+```text
 RescueMesh-SIH-2026/
 │
 ├── architecture/
 │   └── System architecture and design
 │
 ├── demo/
-│   ├── area-admin
-│   ├── commander
-│   ├── unit-leader
-│   ├── responder
-│   ├── shelter-manager
-│   ├── shelter-responder
+│   ├── area-admin/
+│   ├── commander/
+│   ├── unit-leader/
+│   ├── responder/
+│   ├── shelter-manager/
+│   ├── shelter-responder/
 │   └── README.md
 │
 ├── docs/
@@ -196,6 +197,7 @@ RescueMesh-SIH-2026/
 │   └── SIH 2026 presentation
 │
 └── README.md
+```
 Project Workflow
                          INCIDENT
                             │
