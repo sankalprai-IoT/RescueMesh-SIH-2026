@@ -79,3 +79,18 @@ The detailed architecture is divided into separate documents so that each major 
 - **Operational Traceability** — Important system actions can be recorded for accountability and auditing.
 - **Modular Design** — Major disaster-response capabilities are documented as separate functional components.
 
+---
+
+## Documentation Structure
+
+```text
+architecture/
+│
+├── README.md
+├── system-architecture.md
+├── pre-disaster-risk-intelligence.md
+├── mid-disaster-incident-response.md
+├── alert-authorization.md
+└── shelter-management.md
+```
+Each document focuses on a specific architectural component of RescueMesh.
