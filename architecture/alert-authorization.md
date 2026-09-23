@@ -54,7 +54,6 @@ Depending on the configured workflow, alerts may be delivered through:
 
 - In-App
 - Browser
-- Email
 ---
 
 ## Authorization Boundary
