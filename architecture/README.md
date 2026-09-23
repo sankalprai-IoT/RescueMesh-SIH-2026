@@ -44,3 +44,47 @@ The architecture follows a controlled and role-based operational model with clea
                         │
                         ▼
                RESIDENT ASSISTANCE
+
+```
+
+## System Architecture
+
+RescueMesh follows a multi-layer software architecture that separates the user interface, API and security controls, core disaster-response engines, and persistent data storage.
+
+```text
+                         RESCUEMESH
+                              │
+                              ▼
+                  ┌──────────────────────┐
+                  │    FRONTEND LAYER    │
+                  │ React 18 + Vite 6    │
+                  │ Tailwind CSS         │
+                  │ Leaflet / MapLibre   │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │ API & SECURITY LAYER │
+                  │ FastAPI              │
+                  │ JWT Authentication   │
+                  │ Password Hashing     │
+                  │ RBAC Middleware      │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │    CORE ENGINES      │
+                  │ Multi-Factor Risk    │
+                  │ Engine               │
+                  │ Emergency SOS Engine│
+                  │ Mesh Telemetry       │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │  PERSISTENCE LAYER   │
+                  │ Relational Database  │
+                  │ SQLite / PostgreSQL  │
+                  │ System Audit Log     │
+                  └──────────────────────┘
+```
