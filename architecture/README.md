@@ -4,13 +4,13 @@ RescueMesh is a connected disaster-response coordination platform designed to co
 
 ## Architecture Overview
 
-The platform is organized into multiple functional layers that support disaster operations from risk intelligence through emergency response and shelter management.
-
-The architecture follows a controlled and role-based operational model with clear separation between data processing, decision support, command actions, field response, and shelter operations.
+The RescueMesh architecture is organized into distinct operational and technical layers. Each layer represents a specific responsibility within the disaster-response workflow while maintaining controlled data flow, role-based access, and human authorization.
 
 ---
 
 ## Core Architecture
+
+The overall RescueMesh architecture connects pre-disaster intelligence, mid-disaster response, shelter operations, and resident assistance through a coordinated workflow.
 
 ```text
                     RESCUEMESH
@@ -44,47 +44,38 @@ The architecture follows a controlled and role-based operational model with clea
                         │
                         ▼
                RESIDENT ASSISTANCE
-
 ```
+---
 
-## System Architecture
+## Architecture Components
 
-RescueMesh follows a multi-layer software architecture that separates the user interface, API and security controls, core disaster-response engines, and persistent data storage.
+The detailed architecture is divided into separate documents so that each major system component can be reviewed independently.
 
-```text
-                         RESCUEMESH
-                              │
-                              ▼
-                  ┌──────────────────────┐
-                  │    FRONTEND LAYER    │
-                  │ React 18 + Vite 6    │
-                  │ Tailwind CSS         │
-                  │ Leaflet / MapLibre   │
-                  └──────────┬───────────┘
-                             │
-                             ▼
-                  ┌──────────────────────┐
-                  │ API & SECURITY LAYER │
-                  │ FastAPI              │
-                  │ JWT Authentication   │
-                  │ Password Hashing     │
-                  │ RBAC Middleware      │
-                  └──────────┬───────────┘
-                             │
-                             ▼
-                  ┌──────────────────────┐
-                  │    CORE ENGINES      │
-                  │ Multi-Factor Risk    │
-                  │ Engine               │
-                  │ Emergency SOS Engine│
-                  │ Mesh Telemetry       │
-                  └──────────┬───────────┘
-                             │
-                             ▼
-                  ┌──────────────────────┐
-                  │  PERSISTENCE LAYER   │
-                  │ Relational Database  │
-                  │ SQLite / PostgreSQL  │
-                  │ System Audit Log     │
-                  └──────────────────────┘
-```
+- **System Architecture** — Technical layers, security, core engines, and data storage.
+- **Pre-Disaster Risk Intelligence** — Risk-data processing and intelligence pipeline.
+- **Mid-Disaster Incident Response** — SOS, command review, field verification, and incident conversion.
+- **Alert Authorization** — Human review and controlled alert delivery.
+- **Shelter Management** — Shelter operations, capacity, occupancy, and resident assistance.
+---
+
+## Detailed Architecture
+
+| Component | Documentation |
+|---|---|
+| **System Architecture** | [View Documentation](./system-architecture.md) |
+| **Pre-Disaster Risk Intelligence** | [View Documentation](./pre-disaster-risk-intelligence.md) |
+| **Mid-Disaster Incident Response** | [View Documentation](./mid-disaster-incident-response.md) |
+| **Alert Authorization** | [View Documentation](./alert-authorization.md) |
+| **Shelter Management** | [View Documentation](./shelter-management.md) |
+
+---
+
+## Architecture Principles
+
+- **Role-Based Access** — Users access functions according to their assigned operational role.
+- **Controlled Data Flow** — Information moves through defined processing and authorization stages.
+- **Human Authorization** — Critical operational actions remain subject to authorized human review.
+- **Separation of Responsibilities** — Technical and operational components are organized into defined layers.
+- **Operational Traceability** — Important system actions can be recorded for accountability and auditing.
+- **Modular Design** — Major disaster-response capabilities are documented as separate functional components.
+
