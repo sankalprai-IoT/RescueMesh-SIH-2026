@@ -20,10 +20,9 @@ Risk / Decision Support
       │
       ▼
  Alert Delivery
-      │
- ┌────┼
- ▼    ▼    
-IN-APP BROWSER 
+   /      \
+   ▼        ▼
+IN-APP     BROWSER 
 ```
 ---
 
