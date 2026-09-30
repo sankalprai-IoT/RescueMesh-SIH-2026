@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-  <img src="./assets/sih-2026.png" alt="Smart India Hackathon 2026" width="600">
+  <img src="./assets/sih-2026(1).png" alt="Smart India Hackathon 2026" width="600">
 </p>
 
 ---
