@@ -24,5 +24,3 @@ The presentation provides a concise overview of the RescueMesh solution, its ope
 **Team Didex**
 
 **Project:** RescueMesh
-
-**Event:** Smart India Hackathon 2026
