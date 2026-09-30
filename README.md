@@ -140,7 +140,7 @@ Each role has its own dashboard demonstration showing the operational interface 
 
 🎥 **RescueMesh Full Demo**
 
-[▶️ Watch the RescueMesh Demo](YOUTUBE_LINK_HERE)
+[▶️ Watch the RescueMesh Demo](https://youtu.be/V3wDFj-j8YU)
 
 ---
 
