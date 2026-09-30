@@ -7,7 +7,11 @@
 **Event:** Smart India Hackathon 2026
 
 ---
+<p align="center">
+  <img src="./assets/sih-2026.png" alt="Smart India Hackathon 2026" width="700">
+</p>
 
+---
 ## Overview
 
 During a disaster, information can become fragmented between incident reporting, command teams, field responders, and shelters.
