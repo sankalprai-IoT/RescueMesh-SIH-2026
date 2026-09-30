@@ -142,10 +142,17 @@ Each role has its own dashboard demonstration showing the operational interface 
 
 ## Demo Video
 
-🎥 **RescueMesh Full Demo**
+<p align="center">
+  <a href="https://youtu.be/V3wDFj-j8YU">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg"
+         alt="Watch the RescueMesh Demo"
+         width="720">
+  </a>
+</p>
 
-[▶️ Watch the RescueMesh Demo](https://youtu.be/V3wDFj-j8YU)
-
+<p align="center">
+  <b>▶ Click the image to watch the RescueMesh demo</b>
+</p>
 ---
 
 ## Role-wise Dashboard Demonstrations
