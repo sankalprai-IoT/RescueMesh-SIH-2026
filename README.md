@@ -192,23 +192,14 @@ The `presentation/` directory contains the official **RescueMesh — Smart India
 ```text
 RescueMesh-SIH-2026/
 │
-├── architecture/
-│   └── System architecture and design
+├── architecture
 │
-├── demo/
-│   ├── area-admin/
-│   ├── commander/
-│   ├── unit-leader/
-│   ├── responder/
-│   ├── shelter-manager/
-│   ├── shelter-responder/
-│   └── README.md
+├── demo
 │
-├── docs/
-│   └── Project documentation
+├── docs
 │
-├── presentation/
-│   └── SIH 2026 presentation
+├── presentation
+│
 │
 └── README.md
 ```
