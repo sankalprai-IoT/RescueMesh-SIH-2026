@@ -145,7 +145,7 @@ Each role has its own dashboard demonstration showing the operational interface 
 <p align="center">
   <a href="https://youtu.be/V3wDFj-j8YU" target="_blank" rel="noopener noreferrer">
     <img
-      src="./assets/rescuemesh-demo-banner.png"
+      src="./assets/rescuemesh-demo-banner.png" 
       alt="RescueMesh — A Connected Disaster Response Platform"
       width="900"
     />
