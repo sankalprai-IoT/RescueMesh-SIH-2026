@@ -13,5 +13,16 @@ The final presentation will be provided in this directory.
 The official RescueMesh presentation for Smart India Hackathon 2026 is provided below.
 
 **Presentation:** `RescueMesh-SIH-2026.pdf`
+---
 
-> Replace the filename above with the exact PPT/PDF filename uploaded to this directory.
+## Purpose
+
+The presentation provides a concise overview of the RescueMesh solution, its operational workflow, architecture, capabilities, and project implementation.
+
+## Team
+
+**Team Didex**
+
+**Project:** RescueMesh
+
+**Event:** Smart India Hackathon 2026
