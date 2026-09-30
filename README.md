@@ -143,11 +143,11 @@ Each role has its own dashboard demonstration showing the operational interface 
 ## Demo Video
 
 <p align="center">
-  <a href="https://youtu.be/V3wDFj-j8YU">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg"
-         alt="Watch the RescueMesh Demo"
-         width="720">
-  </a>
+  <img
+    src="./assets/rescuemesh-demo-banner.png"
+    alt="RescueMesh — A Connected Disaster Response Platform"
+    width="900"
+  />
 </p>
 
 <p align="center">
