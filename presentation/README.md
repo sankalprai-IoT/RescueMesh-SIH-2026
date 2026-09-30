@@ -14,7 +14,7 @@ The official RescueMesh presentation for Smart India Hackathon 2026 is provided 
 
 **Presentation:** 
 [./RESCUEMESH.pdf]
-[Presentation](./presentation/RESCUEMESH.pdf)
+[Presentation](./RESCUEMESH.pdf)
 ---
 
 ## Purpose
