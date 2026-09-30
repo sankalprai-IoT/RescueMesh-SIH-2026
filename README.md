@@ -200,6 +200,7 @@ RescueMesh-SIH-2026/
 │
 ├── presentation
 │
+├── assets
 │
 └── README.md
 ```
